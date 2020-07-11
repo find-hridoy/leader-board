@@ -1,0 +1,16 @@
+header{
+    background: #562EFF;
+}
+.logo-text{
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+}
+.logo-text img{
+    width: 10%;
+    margin-right: 15px;
+}
+.nav-link{
+    color: #fff !important;
+    margin-left: 15px;
+}
