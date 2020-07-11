@@ -1,3 +1,6 @@
+body{
+    background: #f3f1ff;
+}
 header{
     background: #562EFF;
 }
@@ -13,4 +16,23 @@ header{
 .nav-link{
     color: #fff !important;
     margin-left: 15px;
+}
+.player-container{
+    width: 1020px;
+    margin: auto;
+}
+.section-title h3{
+    font-size: 24px;
+    font-weight: 500;
+    color: #562EFF;
+}
+.player-content{
+   
+}
+.player-content img{
+    width: 16%;
+    margin-right: 20px;
+}
+.player-content h3{
+    font-size: 24px;
 }
